@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moath Altarawneh</h1>
 <h3 align="center">A passionate previously civil engineer, now a developer taking a Fullstack .NET course</h3>
-<img align="right" alt="Coding" width="800" src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif">
+<img align="right" alt="Coding" width="500" src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ra1d7&label=Profile%20views&color=0e75b6&style=flat" alt="ra1d7" /> </p>
 
 - 🔭 I’m currently working on **Becoming a FullStack Dev**
