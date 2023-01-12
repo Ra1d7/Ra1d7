@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Becoming a FullStack Dev**
 
-- 🌱 I’m currently learning **C# , Front-End , BackEnd using C# & Entity Framework , SQL & Windows Server**
+- 🌱 I’m currently learning **C# , Front-End (html/css/Angular/BootStrap) , BackEnd using C# & Entity Framework , SQL & Windows Server**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ra1d7](https://github.com/Ra1d7)
 
