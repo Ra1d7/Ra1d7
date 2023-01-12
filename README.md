@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/25421570/212047542-12d8d3aa-05a8-45f2-bd1c-34fed3472da2.jpg)]
+![MasterHead](https://user-images.githubusercontent.com/25421570/212047542-12d8d3aa-05a8-45f2-bd1c-34fed3472da2.jpg)
 
 <h1 align="center">Hi 👋, I'm Moath Altarawneh</h1>
 <h3 align="center">A passionate previously civil engineer, now a developer taking a Fullstack .NET course</h3><br>
