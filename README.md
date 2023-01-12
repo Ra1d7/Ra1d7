@@ -1,8 +1,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/25421570/212047542-12d8d3aa-05a8-45f2-bd1c-34fed3472da2.jpg)
 
 <h1 align="center">Hi 👋, I'm Moath Altarawneh</h1>
-<h3 align="center">A passionate previously civil engineer, now a developer taking a Fullstack .NET course</h3><br>
-<img align="center" padding-left="40%" alt="Coding" width="300" src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif"><br>
+<h3 align="center">A passionate previously civil engineer, now a developer taking a Fullstack .NET course</h3>
+<img align="right" padding-left="40%" alt="Coding" width="300" src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ra1d7&label=Profile%20views&color=0e75b6&style=flat" alt="ra1d7" /> </p>
 
 - 🔭 I’m currently working on **Becoming a FullStack Dev**
