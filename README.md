@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **thmrgb2@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/moath-altarawneh-b2b3a2104/](https://www.linkedin.com/in/moath-altarawneh-b2b3a2104/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/moath17/](https://www.linkedin.com/in/moath17)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
