@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ra1d7&label=Profile%20views&color=0e75b6&style=flat" alt="ra1d7" /> </p>
 
-<p><img class="bg-dark" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ra1d7&show_icons=true&locale=en&layout=compact&theme=dark" alt="ra1d7" /></p>
+<p><img class="bg-dark" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ra1d7&show_icons=true&hide=html&locale=en&layout=compact&theme=dark" alt="ra1d7" /></p>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ra1d7](https://github.com/Ra1d7)
