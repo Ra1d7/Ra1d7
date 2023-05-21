@@ -5,15 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ra1d7&label=Profile%20views&color=0e75b6&style=flat" alt="ra1d7" /> </p>
 
-- 🔭 I’m currently working on **Becoming a FullStack Dev**
-
-- 🌱 I’m currently learning **C# , Front-End (html/css/Angular/BootStrap) , BackEnd using C# & Entity Framework , SQL & Windows Server**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Ra1d7](https://github.com/Ra1d7)
-
-- 📝 I regularly design photos on [https://www.facebook.com/alsafwadesign](https://www.facebook.com/alsafwadesign)
-
-- 💬 Ask me about **How I started programming when I was 17, and how I ended up changing careers**
 
 - 📫 How to reach me **thmrgb2@gmail.com**
 
