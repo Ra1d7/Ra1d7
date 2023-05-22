@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/25421570/212049082-06b7b867-4c23-490f-a615-d4bbd3dc30b2.jpg)
 
 <h1 align="center">Hi 👋, I'm Moath Altarawneh</h1>
-<h3 align="center">I am a skilled .NET full stack developer with experience in building and delivering high-quality web applications. I am also passionate about using technology to solve real-world problems.</h3>
+<h3 align="center">I am a .NET full stack developer with experience in building and delivering high-quality web applications. I am also passionate about using technology to solve real-world problems.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ra1d7&label=Profile%20views&color=0e75b6&style=flat" alt="ra1d7" /> </p>
 
