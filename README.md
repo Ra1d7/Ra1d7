@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/moath17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moath17" height="30" width="40" /></a>
 <a href="https://fb.com/mtarawnih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mtarawnih" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucbu4smgkb4kajg57dv3hisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucbu4smgkb4kajg57dv3hisa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCBu4sMgkB4kAjG57dv3hIsA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucbu4smgkb4kajg57dv3hisa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/raid7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raid7" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
