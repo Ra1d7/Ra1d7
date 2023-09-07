@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/25421570/212049082-06b7b867-4c23-490f-a615-d4bbd3dc30b2.jpg)
+![MasterHead](https://github.com/Ra1d7/Ra1d7/assets/25421570/fdc9f7cd-e89f-4c26-a8c9-61c3533aa86b)
 
 <h1 align="center">Hi 👋, I'm Moath Altarawneh</h1>
 <h3 align="center">I am a .NET full stack developer with experience in building and delivering high-quality web applications. I am also passionate about using technology to solve real-world problems.</h3>
